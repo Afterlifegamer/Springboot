@@ -1,3 +1,3 @@
 # Springboot
 
-A full stack application using sprinboot as backend and react as front end and hosting it using amazon aws and deployed using docker.
+Hosting a fullstack application created using react and springboot onto aws.
